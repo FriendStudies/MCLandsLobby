@@ -1,0 +1,9 @@
+name: MCLandsLobby
+author: JxstColin
+version: 1.0
+main: eu.jxstcolin.main.MCLandsLobby
+
+commands:
+  build:
+  mclandslobby:
+  coins:
